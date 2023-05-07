@@ -10162,5 +10162,5 @@ text-align: right;
 }
 
 .detail-box{
-  background-image: "./../produit.jpg";
+  background-image: url("./../produit.jpg");
 }
