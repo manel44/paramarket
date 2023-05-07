@@ -69,7 +69,7 @@
                                  </div>
                                  <h4>78DT</h4>
                               </div>
-                              <a href="#" ><i class="fa-regular fa-cart-shopping"></i></a>
+                              <a href="#" ><i class="fa-solid fa-cart-shopping"></i></a>
                            </div>
                        </div>
                        <div class="option_container">
@@ -106,7 +106,7 @@
                                  </div>
                                  <h4>66,830DT</h4>
                               </div>
-                              <a href="#" ><i class="fa-regular fa-cart-shopping"></i></a>
+                              <a href="#" ><i class="fa-solid fa-cart-shopping"></i></a>
                            </div>
                        </div>
                        <div class="option_container">
@@ -144,7 +144,7 @@
                                  </div>
                                  <h4>51,408DT</h4>
                               </div>
-                              <a href="#" ><i class="fa-regular fa-cart-shopping"></i></a>
+                              <a href="#" ><i class="fa-solid fa-cart-shopping"></i></a>
                            </div>
                        </div>
                        <div class="option_container">
@@ -183,7 +183,7 @@
                                  </div>
                                  <h4>107,410DT</h4>
                               </div>
-                              <a href="#" ><i class="fa-regular fa-cart-shopping"></i></a>
+                              <a href="#" ><i class="fa-solid fa-cart-shopping"></i></a>
                            </div>
                        </div>
                        <div class="option_container">
@@ -222,7 +222,7 @@
                                  </div>
                                  <h4>142DT</h4>
                               </div>
-                              <a href="#" ><i class="fa-regular fa-cart-shopping"></i></a>
+                              <a href="#" ><i class="fa-solid fa-cart-shopping"></i></a>
                            </div>
                        </div>
                        <div class="option_container">
@@ -261,7 +261,7 @@
                                  </div>
                                  <h4>45DT</h4>
                               </div>
-                              <a href="#" ><i class="fa-regular fa-cart-shopping"></i></a>
+                              <a href="#" ><i class="fa-solid fa-cart-shopping"></i></a>
                            </div>
                        </div>
                        <div class="option_container">
@@ -300,7 +300,7 @@
                                  </div>
                                  <h4>31,987DT</h4>
                               </div>
-                              <a href="#" ><i class="fa-regular fa-cart-shopping"></i></a>
+                              <a href="#" ><i class="fa-solid fa-cart-shopping"></i></a>
                            </div>
                        </div>
                        <div class="option_container">
@@ -339,7 +339,7 @@
                                  </div>
                                  <h4>36,414DT</h4>
                               </div>
-                              <a href="#" ><i class="fa-regular fa-cart-shopping"></i></a>
+                              <a href="#" ><i class="fa-solid fa-cart-shopping"></i></a>
                            </div>
                        </div>
                        <div class="option_container">
@@ -378,7 +378,7 @@
                                  </div>
                                  <h4>116,889DT</h4>
                               </div>
-                              <a href="#" ><i class="fa-regular fa-cart-shopping"></i></a>
+                              <a href="#" ><i class="fa-solid fa-cart-shopping"></i></a>
                            </div>
                        </div>
                        <div class="option_container">
@@ -417,7 +417,7 @@
                                  </div>
                                  <h4>104,566DT</h4>
                               </div>
-                              <a href="#" ><i class="fa-regular fa-cart-shopping"></i></a>
+                              <a href="#" ><i class="fa-solid fa-cart-shopping"></i></a>
                            </div>
                        </div>
                        <div class="option_container">
@@ -456,7 +456,7 @@
                                  </div>
                                  <h4>141,200DT</h4>
                               </div>
-                              <a href="#" ><i class="fa-regular fa-cart-shopping"></i></a>
+                              <a href="#" ><i class="fa-solid fa-cart-shopping"></i></a>
                            </div>
                        </div>
                        <div class="option_container">
