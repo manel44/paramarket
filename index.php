@@ -114,7 +114,7 @@
                    </div>
                </div>
                <div class="container">
-                  <ol class="carousel-indicators">
+                  <ol class="carousel-indicators" style="display: flex; justify-content: center;">
                      <li data-target="#customCarousel1" data-slide-to="0" class="active"></li>
                      <li data-target="#customCarousel1" data-slide-to="1"></li>
                      <li data-target="#customCarousel1" data-slide-to="2"></li>
