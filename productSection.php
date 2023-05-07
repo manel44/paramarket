@@ -26,7 +26,7 @@
                                  <span>Nivea</span>
                                  <h5>Nivea Eau Micellaire </h5>
                                  <div>
-                                    <i class="fa-solid fa-star"></i>                  
+                                    <i class="fa-solid fa-star"></i>                 
                                     <i class="fa-solid fa-star"></i>                  
                                     <i class="fa-solid fa-star"></i>                  
                                     <i class="fa-solid fa-star"></i>                  
