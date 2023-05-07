@@ -2,7 +2,7 @@
 <html>
 <head>
   <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
-  <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" >
+  <script src="https://kit.fontawesome.com/8f7f928c24.js" crossorigin="anonymous"></script>
 
 </head>
 <body>
