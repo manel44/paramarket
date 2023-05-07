@@ -48,7 +48,6 @@
                                     "Prenez soin de votre santé et de votre beauté"
                                  </h1>
                                  <p>
-                                   
                                  Bienvenue sur notre site de parapharmacie en ligne ! Nous sommes fiers de vous proposer une large 
                                  sélection de produits de santé, de beauté et de bien-être pour toute la famille. Notre mission est
                                   de vous offrir les meilleurs produits de qualité aux meilleurs prix, ainsi que des conseils et des informations pour vous aider à prendre soin de votre santé et de votre bien-être. 

@@ -10160,3 +10160,7 @@ text-align: right;
   flex-basis: 24%;
   cursor: pointer;
 }
+
+.detail-box{
+  background-image: "./../produit.jpg";
+}
