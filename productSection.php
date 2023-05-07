@@ -26,14 +26,14 @@
                                  <span>Nivea</span>
                                  <h5>Nivea Eau Micellaire </h5>
                                  <div>
-                                    <i class="fa fa-star"></i>                 
-                                    <i class="fa fa-star"></i>                  
-                                    <i class="fa fa-star"></i>                  
-                                    <i class="fa fa-star"></i>                  
+                                    <i class="fa-solid fa-star"></i>                 
+                                    <i class="fa-solid fa-star"></i>                  
+                                    <i class="fa-solid fa-star"></i>                  
+                                    <i class="fa-solid fa-star"></i>                  
                                  </div>
                                  <h4>42DT</h4>
                               </div>
-                              <a href="#" ><i class="fa-regular fa-cart-shopping"></i></a>
+                              <a href="#" ><i class="fa-solid fa-cart-shopping"></i></a>
                            </div>
                        </div>
                        <div class="option_container">
@@ -43,7 +43,6 @@
                               </a>
                               <a href="" class="option2">
                                Add To Cart
-
                               </a>
                            </div>
                         </div>
